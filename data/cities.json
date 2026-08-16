@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "https://flagcdn.com/24x18/pt.png",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "https://flagcdn.com/24x18/es.png",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "https://flagcdn.com/24x18/de.png",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Mothihari",
+      "country": "India",
+      "emoji": "https://flagcdn.com/24x18/in.png",
+      "date": "2026-07-02T11:37:47.641Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "26.632728662035912",
+        "lng": "84.94628906250001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Neuvy-Saint-Sepulchre",
+      "country": "France",
+      "emoji": "https://flagcdn.com/24x18/fr.png",
+      "date": "2026-07-05T15:28:13.000Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "46.58906908309185",
+        "lng": "1.8457031250000002"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Les Valls de Valira",
+      "country": "Spain",
+      "emoji": "https://flagcdn.com/24x18/es.png",
+      "date": "2026-07-06T01:03:33.645Z",
+      "notes": "test",
+      "position": {
+        "lat": "42.42345651793833",
+        "lng": "1.47216796875"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Kathmandu",
+      "country": "Nepal",
+      "emoji": "https://flagcdn.com/24x18/np.png",
+      "date": "2026-07-06T01:04:59.354Z",
+      "notes": "test",
+      "position": {
+        "lat": "27.69325634309158",
+        "lng": "85.34179687500001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "San Fernando de Henares",
+      "country": "Spain",
+      "emoji": "https://flagcdn.com/24x18/es.png",
+      "date": "2026-08-16T09:27:33.423Z",
+      "notes": "",
+      "position": {
+        "lat": "40.43022363450859",
+        "lng": "-3.5156250000000004"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Alcochete",
+      "country": "Portugal",
+      "emoji": "https://flagcdn.com/24x18/pt.png",
+      "date": "2026-08-16T09:27:37.524Z",
+      "notes": "",
+      "position": {
+        "lat": "38.70265930723801",
+        "lng": "-8.876953125000002"
+      },
+      "id": 98443203
+    }
+  ]
+}
