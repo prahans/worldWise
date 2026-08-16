@@ -8,7 +8,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "server": "json-server --watch data/cities.json --port 9000 --delay 500"
+    "server": "json-server --watch data/cities.json --port 9000 --delay 500",
+    "server:prod": "json-server data/cities.json --port $PORT"
   },
   "dependencies": {
     "leaflet": "^1.9.4",
